@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.calculator.tip.Stage2UnitTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-06-03T12:01:45" hostname="Robert" time="3.684">
+  <properties/>
+  <testcase name="test00_whenEditTextEmtpyThenTipAndBillTextViewsAreEmpty" classname="org.hyperskill.calculator.tip.Stage2UnitTest" time="2.914"/>
+  <testcase name="test01_whenEditTextIsZeroThenTipAndBillTextViewsAreEmpty" classname="org.hyperskill.calculator.tip.Stage2UnitTest" time="0.154"/>
+  <testcase name="test02_checkValueWithInitialTip" classname="org.hyperskill.calculator.tip.Stage2UnitTest" time="0.092"/>
+  <testcase name="test03_checkBothValueAndTipSetWithSeekBarSetLast" classname="org.hyperskill.calculator.tip.Stage2UnitTest" time="0.107"/>
+  <testcase name="test04_checkEditTextListenerLast" classname="org.hyperskill.calculator.tip.Stage2UnitTest" time="0.086"/>
+  <testcase name="test05_checkLargeValue" classname="org.hyperskill.calculator.tip.Stage2UnitTest" time="0.099"/>
+  <testcase name="test06_checkDecimalValue" classname="org.hyperskill.calculator.tip.Stage2UnitTest" time="0.075"/>
+  <testcase name="test07_checkClearingValue" classname="org.hyperskill.calculator.tip.Stage2UnitTest" time="0.076"/>
+  <testcase name="test08_checkZeroingValue" classname="org.hyperskill.calculator.tip.Stage2UnitTest" time="0.081"/>
+  <system-out><![CDATA[Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=29
+resources.arsc in APK '/home/robert/.m2/repository/org/robolectric/android-all-instrumented/10-robolectric-5803371-i3/android-all-instrumented-10-robolectric-5803371-i3.jar' is compressed.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

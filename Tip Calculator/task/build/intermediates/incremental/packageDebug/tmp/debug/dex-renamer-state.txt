@@ -1,0 +1,4 @@
+#Mon Jun 03 14:02:03 CEST 2024
+base.0=/home/robert/AndroidStudioProjects/Tip Calculator1/Tip Calculator/task/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
